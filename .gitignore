@@ -1,0 +1,6 @@
+#data file
+new_jdt_only/
+GoogleNews-vectors-negative300.bin
+
+#cache
+__pycache__
